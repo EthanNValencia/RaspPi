@@ -14,6 +14,6 @@ Problem: Events 334 and 336 was a pedestrian. Solution: Cut new cups to narrow t
 Problem: Vehicles that enter and exit the neighborhood at excessive speeds will be detected but the camera will not snap a photo quick enough to capture the speeding vehicles. SOlution: Will place the camera at an angle. 
 Todo: I am going to specify the sequence of motion so that only vehicles entering the neighborhood are registered as detection events. 
 
-#### Branch: Test_Run_3 | 
+#### Branch: Test_Run_3 | [Video](https://youtu.be/H0IJAulo1W4)
 This was the third data collection session that I ran. It ran for almost 3 days, from 2022-02-17, 18:06:25 to 2022-02-20, 16:30:34. I terminated it manually to implement changes. 
 For this run session, I increased the sensitivity of the motion sensors. I cut new sensor housings so that their field of detection would be more narrow. I changed the program so that sequential motion needs to begin from sensor on the left and then proceed to the sensor on the right. This way my detections should be from vehicles traveling into the neighborhood. I also adjusted the timings. 
