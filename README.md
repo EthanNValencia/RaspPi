@@ -2,7 +2,7 @@
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
 #### Branch: run
-The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. 
+The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. I adjusted the thread timings. Attempting to get better vehicle placement in my photos. 
 
 #### Branch: Test_Run_1 | [Video](https://youtu.be/_8nmh4hD2vQ)
 This was my first data collection session. It lasted around 12 hours between the 10PM - 11AM. The program crashed due to a lack of exception handling for the git push automation script. From my analysis, the cause of the failure was likely due to a brief internet connection problem. 
