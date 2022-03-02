@@ -17,6 +17,6 @@ Todo: I am going to specify the sequence of motion so that only vehicles enterin
 This was the third data collection session that I ran. It ran for almost 3 days, from 2022-02-17, 18:06:25 to 2022-02-20, 16:30:34. I terminated it manually to implement changes. 
 For this run session, I increased the sensitivity of the motion sensors. I cut new sensor housings so that their field of detection would be more narrow. I changed the program so that sequential motion needs to begin from sensor on the left and then proceed to the sensor on the right. This way my detections should be from vehicles traveling into the neighborhood. I also adjusted the timings. 
 
-#### Branch: Test_Run_4 | Video Currently Unavailable
+#### Branch: Test_Run_4 | [Video](https://youtu.be/6Qu4zs0RW2E)
 This was the fourth data collection session that I ran. It ran from 2022-02-20, 22:34:49 to 2022-03-01, 20:01:48 (over a week). I terminated it manually due to problems viewing the GitHub repo on my cellphone.  
 New features: Implementing an optocoupler to remove the physical electrical connection between the Raspberry Pi and the motion sensors in the trees. Going to make minor changes to the order in which the threads can declare a detection event. Going to change the camera settings to hopefully increase the photo quality at night time. Note: Optocoupler didn't work, so I removed it and ran the session. 
