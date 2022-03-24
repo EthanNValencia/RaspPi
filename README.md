@@ -2,7 +2,7 @@
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
 #### Branch: run
-The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. I adjusted the thread timings. Attempting to get better vehicle placement in my photos. 
+The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. Status: Not Running.
 
 #### Branch: Test_Run_1 | [Video](https://youtu.be/_8nmh4hD2vQ)
 This was my first data collection session. It lasted around 12 hours between the 10PM - 11AM. The program crashed due to a lack of exception handling for the git push automation script. From my analysis, the cause of the failure was likely due to a brief internet connection problem. 
@@ -20,3 +20,8 @@ For this run session, I increased the sensitivity of the motion sensors. I cut n
 #### Branch: Test_Run_4 | [Video](https://youtu.be/6Qu4zs0RW2E)
 This was the fourth data collection session that I ran. It ran from 2022-02-20, 22:34:49 to 2022-03-01, 20:01:48 (over a week). I terminated it manually due to problems viewing the GitHub repo on my cellphone.  
 New features: Implementing an optocoupler to remove the physical electrical connection between the Raspberry Pi and the motion sensors in the trees. Going to make minor changes to the order in which the threads can declare a detection event. Going to change the camera settings to hopefully increase the photo quality at night time. Note: Optocoupler didn't work, so I removed it and ran the session. 
+
+#### Branch: Test_Run_5 | [Video](https://youtu.be/8f5Uv7pZ_gE)
+This was the fourth data collection session that I ran. It ran from 2022-03-02, 08:21:22 to 2022-03-09, 17:12:38 (about a week). I terminated it manually due to problems viewing the GitHub repo on my cellphone. I adjusted the thread timings. Attempting to get better vehicle placement in my photos. 
+
+
