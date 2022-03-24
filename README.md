@@ -5,6 +5,8 @@ Vehicle Orientation <br />
 If the vehicle is facing towards the right, then this means the vehicle is entering the neighborhood. <br />
 If the vehicle is facing towards the left, then this means the vehicle is exiting the neighborhood. <br />
 
+Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
+
 #### Branch: run
 The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. Status: Not Running.
 
