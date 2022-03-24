@@ -1,9 +1,9 @@
 # RaspPi
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
-# About Vehicle Orientation
-If the vehicle is facing towards the right then this means the vehicle is entering the neighborhood. 
-If the vheicle is facing towards the left then this means the vehicle is exiting the neighborhood.
+Vehicle Orientation <br />
+If the vehicle is facing towards the right then this means the vehicle is entering the neighborhood. <br />
+If the vheicle is facing towards the left then this means the vehicle is exiting the neighborhood. <br />
 
 #### Branch: run
 The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. Status: Not Running.
