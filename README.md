@@ -31,3 +31,8 @@ New features: Implementing an optocoupler to remove the physical electrical conn
 This was the fourth data collection session that I ran. It ran from 2022-03-02, 08:21:22 to 2022-03-09, 17:12:38 (about a week). I terminated it manually due to problems viewing the GitHub repo on my cellphone. I adjusted the thread timings. Attempting to get better vehicle placement in my photos. 
 
 
+# Seaborn Charts
+
+#### Total Occurences Per Hour
+This chart shows the total number of occurences that occured on an hourly basis. For example, every detection event that the system processed in the hour of 15 (3 PM) is charted.
+![chart 1](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart1.png?raw=true)
