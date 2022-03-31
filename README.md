@@ -32,7 +32,12 @@ This was the fourth data collection session that I ran. It ran from 2022-03-02, 
 
 
 # Seaborn Charts
+These charts are derrived from 3 seperate data collection sessions. These individual sessions can be viewed in greater detail on these branches: Test_Run_3, Test_Run_4, and Test_Run_5. It is important to understand that the sessions took place from: 2022-02-17 to 2022-02-20 (3 days), 2022-02-20 to 2022-03-01 (9 days), and from 2022-03-02 to 2022-03-09 (7 days). Non-precisely speaking, this is 19 days of data collection. 
 
 #### Total Occurences Per Hour
 This chart shows the total number of occurences that occured on an hourly basis. For example, every detection event that the system processed in the hour of 15 (3 PM) is charted.
 ![chart 1](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart1.png?raw=true)
+
+#### Event Detections By Hour and Minute
+This chart shows occurences by hour and minute. This chart might not be particularly useful, however, I think it does tell a story. The story that is told by this chart is that at certain times of the day it is possible for a vehicle to be detected entering the neighborhood at any time. It is important to understand that the data collection period is around 19 days. 
+![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart2.png?raw=true)
