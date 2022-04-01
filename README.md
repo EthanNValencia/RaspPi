@@ -16,7 +16,7 @@ This was my first data collection session. It lasted around 12 hours between the
 #### Branch: Test_Run_2 | [Video](https://youtu.be/D95GhDzAvH0)
 This was the second data collection session that I ran. It ran over 24 hours from 2022-02-15, 17:44:30 to 2022-02-16, 22:06:36. I terminated it manually to implement changes. 
 Problem: Events 334 and 336 was a pedestrian. Solution: Cut new cups to narrow the sensor field. 
-Problem: Vehicles that enter and exit the neighborhood at excessive speeds will be detected but the camera will not snap a photo quick enough to capture the speeding vehicles. SOlution: Will place the camera at an angle. 
+Problem: Vehicles that enter and exit the neighborhood at excessive speeds will be detected but the camera will not snap a photo quick enough to capture the speeding vehicles. Solution: Will place the camera at an angle. 
 Todo: I am going to specify the sequence of motion so that only vehicles entering the neighborhood are registered as detection events. 
 
 #### Branch: Test_Run_3 | [Video](https://youtu.be/H0IJAulo1W4)
