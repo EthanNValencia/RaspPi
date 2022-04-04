@@ -49,3 +49,10 @@ This chart shows the total number of occurences that occured on an hourly basis.
 #### Event Detections By Hour and Minute
 This chart shows occurences by hour and minute. This chart might not be particularly useful, however, I think it does tell a story. The story that is told by this chart is that at certain times of the day it is possible for a vehicle to be detected entering the neighborhood at any time. It is important to understand that the data collection period is around 19 days. </br>
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart2.png?raw=true)
+
+#### Event Detections Per Day
+This chart shows the total occurences per day. The significant amount of vehicle detections on 2022-02-18 and 2022-02-19 are a little strange. I reviewed the footage of those days and they appear to be mostly accurate detection events. I'm not sure why there were so many vehicles passing the house that day. It could have been due to a a few solar panel installs that took place around that time. </br>
+![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart3.png?raw=true)
+
+
+
