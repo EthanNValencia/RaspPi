@@ -8,12 +8,10 @@ If the vehicle is facing towards the left, then this means the vehicle is exitin
 Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
 
 
-#### Sensor 4
-https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true
+#### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
 
-#### Sensor 11
-https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true
+#### Sensor 11 Photos
 ![Sensor 11](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true)
 
 #### Branch: run
