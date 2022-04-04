@@ -7,6 +7,7 @@ If the vehicle is facing towards the left, then this means the vehicle is exitin
 
 Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
 
+Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog)
 
 #### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
