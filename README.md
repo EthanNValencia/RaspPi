@@ -9,10 +9,12 @@ Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
 
 Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog)
 
+Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU)
+
 #### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
 
-#### Sensor 11 Photos
+#### Sensor 17 Photos
 ![Sensor 11](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true)
 
 #### Branch: run
@@ -51,7 +53,8 @@ This chart shows occurences by hour and minute. This chart might not be particul
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart2.png?raw=true)
 
 #### Event Detections Per Day
-This chart shows the total occurences per day. The significant amount of vehicle detections on 2022-02-18 and 2022-02-19 are a little strange. I reviewed the footage of those days and they appear to be mostly accurate detection events. I'm not sure why there were so many vehicles passing the house that day. It could have been due to a a few solar panel installs that took place around that time. </br>
+This chart shows the total occurences per day. The significant amount of vehicle detections on 2022-02-18 and 2022-02-19 are a little strange. I reviewed the footage of those days and they appear to be mostly accurate detection events. I'm not sure why there were so many vehicles passing the house that day. It could have been due to a a few solar panel installs that took place around that time. 
+Speculation: The huge bumb makes me think there was something wrong with my data collection. It makes me think that my system wasn't correctly detecting as many vehicles as it should have. </br>
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart3.png?raw=true)
 
 
