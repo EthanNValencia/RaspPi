@@ -10,9 +10,9 @@ If the vehicle is facing towards the right, then this means the vehicle is enter
 If the vehicle is facing towards the left, then this means the vehicle is exiting the neighborhood. <br />
 
 ### Helpful Videos
-Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
-Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog)
-Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU)
+Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo) </br>
+Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog) </br>
+Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU) </br>
 
 #### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
