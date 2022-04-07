@@ -1,15 +1,15 @@
 # Small Data Collection Project
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
-### Software and Hardware
+#### Software and Hardware
 Hardware and Materials: Raspberry Pi, 2 PIR infrared sensors, 100 ft of copper wire, straps, electrical tape, scrap wood, cotter pins, and (Dollar Store) lunch containers. </br>
 Software: Raspberry Pi OS, Python, Pandas, numpy, pandas, matplotlib, and Seaborn. 
 
-### Vehicle Orientation <br />
+#### Vehicle Orientation <br />
 If the vehicle is facing towards the right, then this means the vehicle is entering the neighborhood. <br />
 If the vehicle is facing towards the left, then this means the vehicle is exiting the neighborhood. <br />
 
-### Helpful Videos
+#### Helpful Videos
 Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo) </br>
 Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog) </br>
 Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU) </br>
