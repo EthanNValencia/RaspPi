@@ -61,7 +61,7 @@ Speculation: The huge bumb makes me think there was something wrong with my data
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart3.png?raw=true)
 
 #### Average Detections Per Hour
-This chart shows the average amount of vehicles that enter the neighborhood per hour. It can be observed that there isn't a lot of activity per hour. 16 vehicles per hour is the highest average rate. 
+This chart shows the average amount of vehicles that enter the neighborhood per hour. It can be observed that there isn't a lot of activity per hour. 16 vehicles per hour is the highest average rate. Note: The data could be a little skewed because I didn't necessarily begin data collection sessions at the beginning of an hour. 
 </br>
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart4.png?raw=true)
 
