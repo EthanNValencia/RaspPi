@@ -18,7 +18,7 @@ Video touching on how to access the Raspberry Pi without a physical connection: 
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
 
 #### Sensor 17 Photos
-![Sensor 11](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true)
+![Sensor 17](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor17.png?raw=true)
 
 #### Branch: run
 The run branch is meant to be the most current or on-going data collection branch. This is the current data collection session. Status: Not Running.
