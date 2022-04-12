@@ -60,5 +60,8 @@ This chart shows the total occurences per day. The significant amount of vehicle
 Speculation: The huge bumb makes me think there was something wrong with my data collection. It makes me think that my system wasn't correctly detecting as many vehicles as it should have. </br>
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart3.png?raw=true)
 
-
+#### Average Detections Per Hour
+This chart shows the average amount of vehicles that enter the neighborhood per hour. It can be observed that there isn't a lot of activity per hour. 16 vehicles per hour is the highest average rate. 
+</br>
+![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart4.png?raw=true)
 
