@@ -1,18 +1,23 @@
-# RaspPi
+# Small Data Collection Project
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
-Vehicle Orientation <br />
+#### Software and Hardware
+Hardware and Materials: Raspberry Pi, 2 PIR infrared sensors, 100 ft of copper wire, straps, electrical tape, scrap wood, cotter pins, and (Dollar Store) lunch containers. </br>
+Software: Raspberry Pi OS, Shotcut (video editing), Thonny IDE, Python, Jupyter Notebook, Pandas, numpy, pandas, matplotlib, and Seaborn. 
+
+#### Vehicle Orientation <br />
 If the vehicle is facing towards the right, then this means the vehicle is entering the neighborhood. <br />
 If the vehicle is facing towards the left, then this means the vehicle is exiting the neighborhood. <br />
 
-Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo)
-
-Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog)
+#### Helpful Videos
+Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo) </br>
+Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog) </br>
+Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU) </br>
 
 #### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
 
-#### Sensor 11 Photos
+#### Sensor 17 Photos
 ![Sensor 11](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor11.png?raw=true)
 
 #### Branch: run
@@ -49,3 +54,11 @@ This chart shows the total number of occurences that occured on an hourly basis.
 #### Event Detections By Hour and Minute
 This chart shows occurences by hour and minute. This chart might not be particularly useful, however, I think it does tell a story. The story that is told by this chart is that at certain times of the day it is possible for a vehicle to be detected entering the neighborhood at any time. It is important to understand that the data collection period is around 19 days. </br>
 ![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart2.png?raw=true)
+
+#### Event Detections Per Day
+This chart shows the total occurences per day. The significant amount of vehicle detections on 2022-02-18 and 2022-02-19 are a little strange. I reviewed the footage of those days and they appear to be mostly accurate detection events. I'm not sure why there were so many vehicles passing the house that day. It could have been due to a a few solar panel installs that took place around that time. 
+Speculation: The huge bumb makes me think there was something wrong with my data collection. It makes me think that my system wasn't correctly detecting as many vehicles as it should have. </br>
+![chart 2](https://github.com/EthanNValencia/RaspPi/blob/master/images/SeabornChart3.png?raw=true)
+
+
+
