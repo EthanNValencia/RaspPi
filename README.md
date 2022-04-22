@@ -44,7 +44,7 @@ New features: Implementing an optocoupler to remove the physical electrical conn
 This was the fifth data collection session that I ran. It ran from 2022-03-02, 08:21:22 to 2022-03-09, 17:12:38 (about a week). I adjusted the thread timings. Attempting to get better vehicle placement in my photos. There were 845 detection events. Session was manually terminated. 
 
 #### Branch: Test_Run_6 | [Video](https://youtu.be/4wf57RXZXks)
-This was the sixth data collection session that I ran. It ran from 2022-04-04, 19:34:27 to 2022-04-10, 19:16:30. There were 1013 detection events. Session was manually terminated. 
+This was the sixth data collection session that I ran. It ran from 2022-04-04, 19:34:27 to 2022-04-10, 19:16:30. There were 1013 detection events. Session was manually terminated. Note: There were false detection events due to the tree branches. I had to trim the branches during this session. 
 
 # Seaborn Charts
 These charts are derrived from 3 seperate data collection sessions. These individual sessions can be viewed in greater detail on these branches: Test_Run_3, Test_Run_4, and Test_Run_5. It is important to understand that the sessions took place from: 2022-02-17 to 2022-02-20 (3 days), 2022-02-20 to 2022-03-01 (9 days), and from 2022-03-02 to 2022-03-09 (7 days). Non-precisely speaking, this is 19 days of data collection. 
