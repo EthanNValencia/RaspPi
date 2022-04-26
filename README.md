@@ -11,6 +11,7 @@ If the vehicle is facing towards the left, then this means the vehicle is exitin
 
 #### Helpful Videos
 Video showing the setup: [Video](https://youtu.be/AtLLw0zP6xo) </br>
+Video of the system in action: [Video](https://youtube.com/shorts/4ZKKAbR_2Y0) </br>
 Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog) </br>
 Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU) </br>
 
