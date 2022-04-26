@@ -2,8 +2,8 @@
 This is my remote repository for my Raspberry Pi vehicle sensing system. The most current or on-going detection session will be in the run branch. Other branches will be documented sessions and will be numbered accordingly. 
 
 #### Software and Hardware
-Hardware and Materials: Raspberry Pi, 2 PIR infrared sensors, 100 ft of copper wire, straps, electrical tape, scrap wood, cotter pins, and (Dollar Store) lunch containers. </br>
-Software: Raspberry Pi OS, Shotcut (video editing), Thonny IDE, Python, Jupyter Notebook, Pandas, numpy, pandas, matplotlib, and Seaborn. 
+Hardware and Materials: Raspberry Pi, 2 PIR infrared sensors, 100+ ft of copper wire, plastic straps, electrical tape, scrap wood, cotter pins, and (Dollar Store) lunch containers. </br>
+Software: Raspberry Pi OS, Shotcut (video editing), Thonny IDE, Notepad++, Python, Jupyter Notebook, Pandas, numpy, pandas, matplotlib, and Seaborn. 
 
 #### Vehicle Orientation <br />
 If the vehicle is facing towards the right, then this means the vehicle is entering the neighborhood. <br />
