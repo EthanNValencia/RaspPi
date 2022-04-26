@@ -15,6 +15,10 @@ Video of the system in action: [Video](https://youtube.com/shorts/4ZKKAbR_2Y0) <
 Video about how I drilled holes in cheap plastics: [Video](https://youtu.be/wgfiUo_gUog) </br>
 Video touching on how to access the Raspberry Pi without a physical connection: [Video](https://youtu.be/GoeHuRcHIoU) </br>
 
+#### Project Presentations
+[Full Version](https://youtu.be/-CiQISIRM7Q)
+[Shorter Version](https://youtu.be/-CiQISIRM7Q)
+
 #### Sensor 4 Photos
 ![Sensor 4](https://github.com/EthanNValencia/RaspPi/blob/master/images/Sensor4.png?raw=true)
 
